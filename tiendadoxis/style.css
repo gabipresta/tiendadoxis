@@ -1,0 +1,74 @@
+/* Comentario */
+/*
+selector {
+    propiedad: valor;
+    propiedad: valor;
+} */
+
+/* selector de etiqueta */
+h1{
+    color: red
+}
+section{
+    color:red;
+}
+/* Selector de clase */
+.textosResaltados{
+    color:blue;
+}
+.textosComun{
+    color:gold
+    width: 200px;
+
+}
+.textoColorido{
+    color:brown;
+}
+.datosMain{
+    color:rgb(36, 5, 149);
+
+    text-align: center;
+    line-height: 24px;
+    letter-spacing: 3px;
+    word-spacing:16px;
+}
+.boton a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.boton{
+    background-color:cornflowerblue
+    width: 400px;
+    width: fit-content;
+    height: 50px;
+}
+.encabezado__lista__item{
+    display: inline-block;
+    margin: 16px;
+}
+.encabezado__lista{
+    margin: 0 auto;
+    width: fit-content;
+}
+.textoIndex{
+    width: 50%;
+    border: solid 1px black;
+    height: 150px;
+    overflow: auto;
+}
+
+body {
+    background-image: url("../IMAGES/BACKGROUND/background4.jpg");
+    background-color: #444444;
+   }
+span.a {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;  
+    background-color: yellow; 
+  }
